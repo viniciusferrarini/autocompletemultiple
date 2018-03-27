@@ -229,5 +229,5 @@ $(function () {
 /*
     ****Tag HTML utilizada para montar o autocomplete.
     <div class="autocompletemultiple" data-url="url de resposta da chamada ajax"
-    data-elementid="id do input text" th:attr="data-labeltext=#{texto para a label do input}"></div>
+    data-elementid="id do input text" data-labeltext="texto para a label do input"></div>
  */
